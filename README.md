@@ -33,7 +33,7 @@ Essa lei surge com a finalidade de proteger direitos fundamentais, como:
 
 Seguindo um conceito para maior seguranca dos dados, nesse projeto foi feito uma pseudoanonimizacao na base de dados, que consiste em separar dados sensiveis do cliente dos dados de estatisticas para a empresa, armazenando-os em bancos diferentes resultando em mais seguranca na base de dados dos clientes, pois o mesmo conta com mais criptografia. 
 
-Com isso foi e possivel acessar e alterar dados estatisticos sem a necessidade de violar a privacidade dos clientes. Tambem facilitando a exclusao dos dados do cliente, pois conseguimos apenas desvincular um usuario sem perder os dados essenciais.  
+Com isso e possivel acessar e alterar dados estatisticos sem a necessidade de violar a privacidade dos clientes. Tambem, facilitando a exclusao dos dados do cliente, quando o mesmo a solicita, pois conseguimos desvincular seus dados sensiveis dos dados importantes para a empresa.  
 
 
 ## :cd: Dependências
