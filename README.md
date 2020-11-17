@@ -11,7 +11,7 @@
  - Gustavo Robert - [Github](https://github.com/gu-robert);
  - Mauro Toshiuki - [Github](https://github.com/maurosakugawa).
 
-## Objetivos:
+## Objetivos: :dart:
 
 Projeto designado à matéria de Segurança da Informação, lecionado pelo professor Eduardo Sakaue, trouxe consigo o desafio de implementar uma solução para tópicos abordados na Lei Geral de Proteção de Dados (LGPD).
 
@@ -27,7 +27,7 @@ Essa lei surge com a finalidade de proteger direitos fundamentais, como:
 - A livre iniciativa, a livre concorrência e a defesa do consumidor;
 - Direitos humanos: o livre desenvolvimento da personalidade, dignidade e o exercício da cidadania pelas pessoas naturais.
 
-## Abordagem
+## Abordagem :mag:
 
 > Estudo de caso sobre Anonimização de Dados sensíveis dos clientes da Dell Store usando [PostgreSQL](https://www.postgresql.org/) 
 
